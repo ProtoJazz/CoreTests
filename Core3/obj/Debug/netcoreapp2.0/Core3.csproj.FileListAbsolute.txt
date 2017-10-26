@@ -1,0 +1,33 @@
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.deps.json
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.runtimeconfig.json
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.runtimeconfig.dev.json
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.dll
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.csproj.CoreCompileInputs.cache
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.AssemblyInfoInputs.cache
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.AssemblyInfo.cs
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.csprojResolveAssemblyReference.cache
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.pdb
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.dll
+C:/Users/Jim.MacKenzie/Documents/Visual Studio 2017/Projects/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.pdb
+/mnt/h/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.csprojResolveAssemblyReference.cache
+/mnt/h/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.csproj.CoreCompileInputs.cache
+/mnt/h/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.AssemblyInfoInputs.cache
+/mnt/h/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.AssemblyInfo.cs
+/mnt/h/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.dll
+/mnt/h/Core3/Core3/obj/Debug/netcoreapp2.0/Core3.pdb
+/mnt/h/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.deps.json
+/mnt/h/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.runtimeconfig.json
+/mnt/h/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.runtimeconfig.dev.json
+/mnt/h/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.dll
+/mnt/h/Core3/Core3/bin/Debug/netcoreapp2.0/Core3.pdb
+H:\Core3\Core3\bin\Debug\netcoreapp2.0\Core3.deps.json
+H:\Core3\Core3\bin\Debug\netcoreapp2.0\Core3.runtimeconfig.json
+H:\Core3\Core3\bin\Debug\netcoreapp2.0\Core3.runtimeconfig.dev.json
+H:\Core3\Core3\bin\Debug\netcoreapp2.0\Core3.dll
+H:\Core3\Core3\bin\Debug\netcoreapp2.0\Core3.pdb
+H:\Core3\Core3\obj\Debug\netcoreapp2.0\Core3.csprojResolveAssemblyReference.cache
+H:\Core3\Core3\obj\Debug\netcoreapp2.0\Core3.csproj.CoreCompileInputs.cache
+H:\Core3\Core3\obj\Debug\netcoreapp2.0\Core3.AssemblyInfoInputs.cache
+H:\Core3\Core3\obj\Debug\netcoreapp2.0\Core3.AssemblyInfo.cs
+H:\Core3\Core3\obj\Debug\netcoreapp2.0\Core3.dll
+H:\Core3\Core3\obj\Debug\netcoreapp2.0\Core3.pdb
